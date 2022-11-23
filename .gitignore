@@ -1,0 +1,13 @@
+/build
+.idea/
+.gradle/
+/module_source
+local.properties
+/Bae_google_.aab
+/app/release/obfuscated.txt
+/app/release/unused.txt
+*.DS_Store
+
+/app/assets/default_link_config.json
+
+/imageoptdir/logcat/*
